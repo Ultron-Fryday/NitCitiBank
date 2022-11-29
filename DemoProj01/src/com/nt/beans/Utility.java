@@ -12,5 +12,9 @@ public class Utility {
 		System.out.println("abc1234");
 		System.out.println("Utility m1() method:1234");
 	}
+	
+	public void m4() {
+		System.out.println("m4");
+	}
 	 
 }
