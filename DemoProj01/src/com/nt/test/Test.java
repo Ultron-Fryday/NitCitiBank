@@ -1,7 +1,11 @@
 package com.nt.test;
 
+import com.nt.beans.Utility;
+
 public class Test {
-	public Test() {
-		// TODO Auto-generated constructor stub
+	public static void main(String[] args) {
+		Utility u  =new Utility();
+		System.out.println(u.getDate());
 	}
 }
+ 
